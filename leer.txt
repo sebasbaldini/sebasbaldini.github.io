@@ -1,0 +1,4 @@
+Buenos días, lo que hice fueron 2 botones en los cuales 1 muestra 
+los cvs que los obtiene por appis y el otro agregue el precio del bitcoin.
+
+saludos
